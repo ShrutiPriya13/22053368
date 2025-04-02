@@ -1,0 +1,15 @@
+/* Analytics.css */
+.analytics-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .analytics-container h1 {
+    color: #ff6600;
+  }
+  
+  .analytics-container p {
+    font-size: 18px;
+    color: #555;
+  }
+  
